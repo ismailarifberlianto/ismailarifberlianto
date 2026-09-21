@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-💻 Fullstack software developer based in **Depok, Indonesia**, graduate of **Hacktiv8** bootcamp  
+💻 Fullstack software developer based in **Depok - Indonesia**, graduate of **Hacktiv8** bootcamp  
 ⚙️ Building REST & GraphQL APIs with **Node.js, Express.js, MongoDB, and PostgreSQL**  
 🤖 Experienced in integrating **AI (Groq + LangChain)**, **real-time apps (Socket.IO)**, and **payment gateways (Midtrans)**  
 👥 Led a 4-person team as project coordinator on a 7-day sprint  
