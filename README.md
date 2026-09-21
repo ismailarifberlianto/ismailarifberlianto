@@ -76,7 +76,7 @@
 
 ## 📊 GitHub Analytics
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ismailarifberlianto&bg_color=0D1117&color=FF8C00&line=1E90FF&point=FFFFFF&area=true&area_color=1E90FF&hide_border=true&title_color=FF8C00)](https://github.com/ismailarifberlianto)
+[![Contribution Graph](https://ghchart.rshah.org/FF8C00/ismailarifberlianto)](https://github.com/ismailarifberlianto)
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ismailarifberlianto&hide_border=true&background=0D1117&ring=1E90FF&fire=FF8C00&currStreakNum=FF8C00&currStreakLabel=FF8C00&sideNums=1E90FF&sideLabels=1E90FF&dates=8B949E)](https://github.com/ismailarifberlianto)
 
