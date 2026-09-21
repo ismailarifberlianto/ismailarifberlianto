@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-💻 Backend-focused developer based in **Jakarta**, graduate of **Hacktiv8** bootcamp  
+💻 Fullstack developer based in **Jakarta**, graduate of **Hacktiv8** bootcamp  
 ⚙️ Building REST & GraphQL APIs with **Node.js, Express.js, MongoDB, and PostgreSQL**  
 🤖 Experienced in integrating **AI (Groq + LangChain)**, **real-time apps (Socket.IO)**, and **payment gateways (Midtrans)**  
 👥 Led a 4-person team as project coordinator on a 7-day sprint  
@@ -76,9 +76,15 @@
 
 ## 📊 GitHub Analytics
 
-[![Contribution Graph](https://ghchart.rshah.org/FF8C00/ismailarifberlianto)](https://github.com/ismailarifberlianto)
+<div align="center">
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ismailarifberlianto&hide_border=true&background=0D1117&ring=1E90FF&fire=FF8C00&currStreakNum=FF8C00&currStreakLabel=FF8C00&sideNums=1E90FF&sideLabels=1E90FF&dates=8B949E)](https://github.com/ismailarifberlianto)
+<a href="https://github.com/ismailarifberlianto"><img alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=ismailarifberlianto&bg_color=0D1117&title_color=FF8C00&text_color=1E90FF&icon_color=FF8C00&border_color=FF8C00" /></a>
+
+<a href="https://github.com/ismailarifberlianto"><img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailarifberlianto&theme=nord_dark" /></a>
+
+<a href="https://github.com/ismailarifberlianto"><img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailarifberlianto&hide_border=true&background=0D1117&ring=1E90FF&fire=FF8C00&currStreakNum=FF8C00&currStreakLabel=FF8C00&sideNums=1E90FF&sideLabels=1E90FF&dates=8B949E" /></a>
+
+</div>
 
 ---
 
