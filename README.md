@@ -1,6 +1,4 @@
-<!-- Save this file as README.md in a public repo named: ismailarifberlianto/ismailarifberlianto -->
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hi%20there!%20I'm%20Ismail%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&desc=Backend-Focused%20Software%20Developer&descSize=20&descAlignY=68)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:0077FF&height=260&section=header&text=Hi%20there!%20I'm%20Ismail%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&desc=Backend-Focused%20Software%20Developer&descSize=20&descAlignY=68)
 
 ---
 
@@ -78,21 +76,20 @@
 
 ## 📊 GitHub Analytics
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ismailarifberlianto&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ismailarifberlianto)
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailarifberlianto&theme=tokyonight)](https://github.com/ismailarifberlianto)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ismailarifberlianto&bg_color=0D1117&color=FF8C00&line=1E90FF&point=FFFFFF&area=true&area_color=1E90FF&hide_border=true&title_color=FF8C00)](https://github.com/ismailarifberlianto)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ismailarifberlianto&theme=tokyonight&hide_border=true)](https://github.com/ismailarifberlianto)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ismailarifberlianto&hide_border=true&background=0D1117&ring=1E90FF&fire=FF8C00&currStreakNum=FF8C00&currStreakLabel=FF8C00&sideNums=1E90FF&sideLabels=1E90FF&dates=8B949E)](https://github.com/ismailarifberlianto)
 
 ---
 
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portofolio.mailab.my.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismailarifberlianto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismailarifberlianto)
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:0077FF&height=100&section=footer)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ismailarifberlianto&label=Profile%20Views&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ismailarifberlianto&label=Profile%20Views&color=FF8C00&style=flat-square)
