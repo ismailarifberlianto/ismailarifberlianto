@@ -1,10 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:0077FF&height=260&section=header&text=Hi%20there!%20I'm%20Ismail%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&desc=Backend-Focused%20Software%20Developer&descSize=20&descAlignY=68)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:0077FF&height=260&section=header&text=Hi%20there!%20I'm%20Ismail%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&desc=Fullstack%20Software%20Developer&descSize=20&descAlignY=68)
 
 ---
 
 ## 🚀 About Me
 
-💻 Fullstack developer based in **Jakarta**, graduate of **Hacktiv8** bootcamp  
+💻 Fullstack software developer based in **Depok, Indonesia**, graduate of **Hacktiv8** bootcamp  
 ⚙️ Building REST & GraphQL APIs with **Node.js, Express.js, MongoDB, and PostgreSQL**  
 🤖 Experienced in integrating **AI (Groq + LangChain)**, **real-time apps (Socket.IO)**, and **payment gateways (Midtrans)**  
 👥 Led a 4-person team as project coordinator on a 7-day sprint  
